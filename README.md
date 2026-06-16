@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🖥️ Список рабочих зеркал на сегодня Stake для вашего региона
 
-<!--
-**ru-stake-zerkalo/ru-stake-zerkalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+На сайте Stake собираются игроки со всего мира. Игорный клуб быстро и корректно работает на компьютерах и портативных устройствах. Но в некоторых странах доступ к Stake закрыт из-за запретов. Зайти на него можно, без помощи ВПН программ, используя запасные страницы.
 
-Here are some ideas to get you started:
+## 🔍 Рабочие зеркала Stake на 2026 год
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Домен            | Ссылка                                      |
+|------------------|---------------------------------------------|
+| stake.com        | [Перейти](https://bit.ly/stake2025)         |
+| stake3099.com    | [Перейти](https://bit.ly/stake2025)         |
+| stake.ru         | [Перейти](https://bit.ly/stake2025)         |
+| stake3045.com    | [Перейти](https://bit.ly/stake2025)         |
+| stake3012.com    | [Перейти](https://bit.ly/stake2025)         |
+| stake.pet        | [Перейти](https://bit.ly/stake2025)         |
+| stake2999.com    | [Перейти](https://bit.ly/stake2025)         |
+| stake2989.com    | [Перейти](https://bit.ly/stake2025)         |
+| stake3044.com    | [Перейти](https://bit.ly/stake2025)         |
+| stake3043.com    | [Перейти](https://bit.ly/stake2025)         |
+
+---
+
+## ⚠️ Важно знать
+
+✔️Ссылки проверены и размещены для информационного ознакомления. Пользуйтесь только надежными источниками и следите за безопасностью своих данных в сети.
